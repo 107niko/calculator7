@@ -25,3 +25,4 @@ sh "./gradlew jacocoTestCoverageVerification"
 }
 }
 }
+}
